@@ -1,2 +1,2 @@
-# GitProject1
-My Git Project 1
+# DjangoProject
+My Django Project 1
